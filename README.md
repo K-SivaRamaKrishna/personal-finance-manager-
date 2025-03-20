@@ -1,1 +1,1 @@
-# Hand-Gesture-Recognition-System
+# Personal finance manager 
